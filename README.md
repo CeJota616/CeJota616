@@ -24,7 +24,7 @@
 <br>
 <div>
   <div align=center>
-     
+      <img height="200" alt="Avatar photo of KK10" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84707089-0625-40f8-9416-da48a7e76fa8/dft0a3f-c95a2864-345c-47c3-a7c7-dd3bc288c588.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0NzA3MDg5LTA2MjUtNDBmOC05NDE2LWRhNDhhN2U3NmZhOFwvZGZ0MGEzZi1jOTVhMjg2NC0zNDVjLTQ3YzMtYTdjNy1kZDNiYzI4OGM1ODgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FE9vv3uM_Vwtt9I4ZqEhjjlg4u_VOaC2DwCC-lq30U8" alt="Avatar photo of KK10">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fcartman1235%2Fart%2FCharacter-Redesign-Chef-955714587&psig=AOvVaw2K75AbtVrI9dFW2LLPpi94&ust=1744471331757000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCCs7Wk0IwDFQAAAAAdAAAAABAE" /></a>
