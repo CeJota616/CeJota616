@@ -43,7 +43,7 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
+ * @param {string} location - Medellín, Maharashtra, India.
  * @param {string} languagues - English, Hindi, Marathi.
  * @param {string} jobTitle - Software Engineer.
  * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
