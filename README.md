@@ -43,8 +43,8 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Medellín, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
+ * @param {string} location - Medellín, Antioquia, Colombia.
+ * @param {string} languagues - English, Portugués, Español.
  * @param {string} jobTitle - Software Engineer.
  * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
  * @param {string} interests - AI, Distributed Systems & problem-solving.
