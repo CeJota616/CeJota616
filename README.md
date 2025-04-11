@@ -24,7 +24,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+     
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fcartman1235%2Fart%2FCharacter-Redesign-Chef-955714587&psig=AOvVaw2K75AbtVrI9dFW2LLPpi94&ust=1744471331757000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCCs7Wk0IwDFQAAAAAdAAAAABAE" /></a>
